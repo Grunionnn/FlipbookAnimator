@@ -1,0 +1,13 @@
+[package]
+name = "grunionnn/flipbookanimator"
+description = "Lightweight class to animate roblox sprite sheets."
+license = "MIT"
+Authors = ["Grunion"]
+version = "0.2.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["sourcemap.json"]
+
+[dependencies]
+Trove = "sleitnick/trove@1.8.0"
+GoodSignal = "stravant/goodsignal@0.3.1"
