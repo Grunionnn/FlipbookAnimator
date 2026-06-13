@@ -21,10 +21,10 @@ Both are expected to be located in `script.Parent.Parent` (the `Packages` folder
 
 ## Installation
 
-Place `FlipbookAnimator` inside a `Packages` (or similarly named) folder alongside `Trove` and `GoodSignal`, then require it:
-
-```lua
-local FlipbookAnimator = require(Packages.FlipbookAnimator)
+Wally:
+```bash
+[Dependencies]
+flipbookanimator = grunionnnn/flipbookanimator@version
 ```
 
 ## API
